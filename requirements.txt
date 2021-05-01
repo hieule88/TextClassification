@@ -1,5 +1,4 @@
 python=3.7.10
-pip
 fairseq
 fastbpe
 vncorenlp
